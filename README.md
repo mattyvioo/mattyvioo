@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">An aspiring Technical Artist/Tool developer</h3>
+<h3 align="center">Technical Artist/Tool developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattyvioo&label=Profile%20views&color=0e75b6&style=flat" alt="mattyvioo" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://www.matteovioglio.com/](http://www.matteovioglio.com/)
 
-- 📫 How to reach me **matteo.vioglio@gmail.com**
+- 📫 How to reach me: **matteo.vioglio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
